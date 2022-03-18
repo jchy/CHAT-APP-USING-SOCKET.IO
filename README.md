@@ -6,7 +6,8 @@
   npm install
 ```
 - Step.3 Run the folowing command in your terminal
-```nodemon index.js
+```js
+  nodemon index.js
 ```
 - Step.4 Open the index.html in browser
 - Step.5 to enjoy the feeling of multiple user duplicate the tabs as many as you wish
